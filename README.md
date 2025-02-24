@@ -1,11 +1,11 @@
 # oauth_google_web
 
 # Cara add files ke repo baru :
-git remote add origin <Link repo github>
-git checkout -b <nama branch>
-git add .
-git commit -m "<deskripsi commit>"
-git push -u origin <nama branch yang dibuat>
+- git remote add origin <Link repo github>
+- git checkout -b <nama branch>
+- git add .
+- git commit -m "<deskripsi commit>"
+- git push -u origin <nama branch yang dibuat>
 
 ## Getting Started
 
